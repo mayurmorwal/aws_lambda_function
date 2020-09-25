@@ -1,5 +1,5 @@
 # aws_lambda_function
-AWS lambda functions to copy data from source S3 to another target S3 and triggering email notifications
+AWS lambda functions to copy data from source S3 bucket to another target S3 bucket and triggering email notifications
 
 
 Lambda function: test_mm_S3_copy
